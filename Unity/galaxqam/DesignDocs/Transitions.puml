@@ -1,0 +1,62 @@
+@startuml Transitions
+
+skin rose
+
+title Graphe de transition \n Galaxqam
+
+[*] --> MainMenu
+left to right direction
+
+MainMenu -r-> GameScene 
+MainMenu --> OptionsMenu
+MainMenu --> CreditsMenu
+MainMenu -r-> [*]
+
+MainMenu : Nouvelle partie
+MainMenu : Options
+MainMenu : Crédits
+MainMenu : Quitter le jeu
+
+GameScene : Pause
+GameScene : Quitter la partie
+GameScene  --> PauseMenu
+GameScene  --> MainMenu
+
+OptionsMenu : Vol. Effets sonores (on/off, défaut: on)
+OptionsMenu : Vol. Musique (on/off, défaut: on)
+OptionsMenu : Caméra (normal/cockpit, défaut: normal)
+OptionsMenu : Mode de jeu (classique, survie, game master, défaut: classique)
+OptionsMenu : Difficulté (facile/normal/difficile défaut: normal)
+OptionsMenu : Contrôles du jeu
+OptionsMenu : Retour
+OptionsMenu --> GameMasterMenu
+OptionsMenu --> GameControlMenu
+OptionsMenu --> MainMenu
+OptionsMenu --> PauseMenu
+
+CreditsMenu : Retour
+CreditsMenu --> MainMenu
+
+PauseMenu : Continuer
+PauseMenu : Options
+PauseMenu --> GameScene 
+PauseMenu --> OptionsMenu
+
+GameControlMenu : Afficher les touches de jeu
+GameControlMenu : Modifier les touches de jeu
+GameControlMenu : Retour
+GameControlMenu --> OptionsMenu
+
+GameMasterMenu : Activer une capsule ENERGIE
+GameMasterMenu : Activer une capsule EXPLOSION
+GameMasterMenu : Activer une capsule VIE
+GameMasterMenu : Activer une capsule INVINCIBLE
+GameMasterMenu : Faire exploser le vaisseau du joueur
+GameMasterMenu : Affaiblir le boss à 1% de vie (classique)
+GameMasterMenu : Avancer à la fin d'un niveau
+GameMasterMenu : Donner le maximum de vie à son vaisseau
+GameMasterMenu : Recharger la téléportation
+GameMasterMenu : Retourn
+GameMasterMenu --> OptionsMenu
+
+@enduml
