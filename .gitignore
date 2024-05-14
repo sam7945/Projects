@@ -5,3 +5,6 @@ Android/RSSReader/.gitignore
 Android/RSSReader/.idea/
 Android/RSSReader/app/.gitignore
 Android/RSSReader/app/build.gradle
+C/MotCroisee/.vs/
+ReseauNeuronne/TPARCHIPERCEPTRON/Interface/.vs/
+ReseauNeuronne/TPARCHIPERCEPTRON/TP5/.vs/
