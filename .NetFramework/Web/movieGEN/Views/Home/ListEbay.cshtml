@@ -1,0 +1,24 @@
+﻿@model List<Ebay>
+@{
+    ViewData["Title"] = "ListEbay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string targetLanguage = Environment.GetEnvironmentVariable("TARGET_LANGUAGE");
+    string sourceLanguage = null; // automatically detected
+    //var client = Google.Cloud.Translation.V2.TranslationClient.Create();
+}
+
+<h2>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@Article de Ebay@* ", targetLanguage, sourceLanguage).TranslatedText) *@</h2>
+<div id="results"></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td><img src="@item.galleryURL" border="0" onerror="this.onerror=null;this.src='https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101065/112815953-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6';"></td>
+            <td><a href=" @item.viewItemURL" target="_blank">@item.title</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+

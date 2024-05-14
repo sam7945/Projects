@@ -1,0 +1,51 @@
+﻿@model movieGEN.Models.ImdbEntity
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string targetLanguage = Environment.GetEnvironmentVariable("TARGET_LANGUAGE");
+    string sourceLanguage = null; // automatically detected
+    //var client = Google.Cloud.Translation.V2.TranslationClient.Create();
+}
+<script>
+    var imgUrl = '@Model.Poster';
+</script>
+<div class="w-100 p-3" style="height : 200px">
+    <img src="@Html.DisplayFor(model => model.Poster)" style="width : 120% ; height : 100%; object-fit : cover ; margin-left : -10%; margin-top : -2%" onerror="this.onerror=null;this.src='https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101065/112815953-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6';"/>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="@Html.DisplayFor(model => model.Poster)" class="img-thumbnail" onerror="this.onerror=null;this.src='https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101065/112815953-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6';"/>
+        </div>
+        <div class="col-sm-9">
+            <h2><b>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml( *@ @Model.Title@* , targetLanguage, sourceLanguage).TranslatedText) *@</b></h2>
+            <p><i class="fas fa-star"></i>&nbsp;  @Html.DisplayFor(model => model.imdbRating)</p>
+            <button type="button" class="btn btn-light"><a style="color:black" asp-action="ListEbay" asp-route-Title=@Model.Title><b>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@ACHETER SUR EBAY@* ", targetLanguage, sourceLanguage).TranslatedText) *@</b> </a><i class="fab fa-ebay"></i></button>
+            &nbsp;
+            <button type="button" class="btn btn-light"><a style="color:black" href="@ViewData["URLYoutube"]" target="_blank"><b>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@VOIR LA BANDE ANNONCE@* /* ", targetLanguage, sourceLanguage).TranslatedText) */ *@</b></a> <i class="fab fa-youtube"></i></button>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm-12">
+            <h2 style="text-align : left">@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@Résumé@* ", targetLanguage, sourceLanguage).TranslatedText) *@</h2>
+            <p>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml( *@ @Model.Plot@* , targetLanguage, sourceLanguage).TranslatedText) *@</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <h2 style="text-align : left">Casting</h2>
+            <p>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml( *@ @Model.Actors@* , targetLanguage, sourceLanguage).TranslatedText) *@</p>
+        </div>
+        <div class="col-sm-6">
+            <h2 style="text-align : left">@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@Équipe@* ", targetLanguage, sourceLanguage).TranslatedText) *@</h2>
+            <p>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml( *@ @Model.Writer@* , targetLanguage, sourceLanguage).TranslatedText) *@</p>
+            <p>@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml( *@ @Model.Director@* , targetLanguage, sourceLanguage).TranslatedText) *@</p>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@Retour@* ", targetLanguage, sourceLanguage).TranslatedText) *@</a>
+</div>

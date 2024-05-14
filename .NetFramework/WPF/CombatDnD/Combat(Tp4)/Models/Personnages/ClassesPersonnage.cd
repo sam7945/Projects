@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Combat_Tp4_.Models.Personnages.Personnage">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAACAAIAAgAAQAEAAABADAAAAABQAAAAACAAAA=</HashCode>
+      <FileName>Models\Personnages\Personnage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.Guerrier">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\Guerrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.Magicien">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAgAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\Magicien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.Chevalier">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\Chevalier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.Archer">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\Archer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.Blanc">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\Blanc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.Noir">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\Noir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.CNoir">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\CNoir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combat_Tp4_.Models.Personnages.CBlanc">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Personnages\CBlanc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

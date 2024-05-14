@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\école\session6\Programmation système\TP3\crawler\crawler\main.cpp(200,12): warning C4244: 'initialisation' : conversion de 'time_t' en 'int', perte possible de données
+  crawler.vcxproj -> D:\école\session6\Programmation système\TP3\crawler\Debug\crawler.exe

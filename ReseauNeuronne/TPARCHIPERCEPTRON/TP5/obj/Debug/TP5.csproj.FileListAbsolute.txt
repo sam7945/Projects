@@ -1,0 +1,10 @@
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\bin\Debug\TP5.dll
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\bin\Debug\TP5.pdb
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.UserControlEntrainement.resources
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.UserControlTest.resources
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.ucZoneDessin.resources
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.dll
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.pdb
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache

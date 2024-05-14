@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools" android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:id="@+id/layoutid"
+              android:layout_height="wrap_content" tools:ignore="MissingDefaultResource">
+
+    <ImageView
+            android:layout_width="72dp"
+            android:layout_height="71dp"
+            android:id="@+id/imageViewFlux"
+            android:contentDescription="imageFlux"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="4dp"
+            android:onClick="voirFlux"
+    />
+    <LinearLayout
+            android:layout_width="699dp"
+            android:layout_height="94dp" android:orientation="vertical">
+        <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:id="@+id/titreView"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="16dp"
+                android:onClick="voirFlux"
+        />
+        <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="16dp"
+                android:id="@+id/nbArticleView" android:layout_height="wrap_content" android:baselineAligned="false"/>
+    </LinearLayout>
+    <Button
+            android:text="-"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="16dp"
+            android:id="@+id/buttonMoin"/>
+</LinearLayout>

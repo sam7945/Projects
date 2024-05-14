@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+@{
+    //string targetLanguage = Environment.GetEnvironmentVariable("TARGET_LANGUAGE");
+    //string sourceLanguage = null; // automatically detected
+    //var client = Google.Cloud.Translation.V2.TranslationClient.Create();
+    //var choseLangage = targetLanguage;
+    //var myLanguage = System.Threading.Thread.CurrentThread.CurrentUICulture.TwoLetterISOLanguageName;
+    //var currentLanguage = client.ListLanguages(target: myLanguage).Where(l => l.Code == targetLanguage).Select(s => s.Name).FirstOrDefault();
+}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - movieGEN</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    @*<link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />*@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/2c7a96cf2f.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color : whitesmoke ; border-bottom :5px solid gray">
+        <div class="navbar-header col-md-12">
+            <button class="rounded float-left" onclick="location.href='@Url.Action("index","Home")'">@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@Gestionnaire de Films@* ", targetLanguage, sourceLanguage).TranslatedText) *@</button>
+
+            <a class="rounded float-right col-md-2" asp-controller="Home" asp-action="About">@* @System.Web.HttpUtility.HtmlDecode(client.TranslateHtml(" *@À propos@* ", targetLanguage, sourceLanguage).TranslatedText) *@</a>
+@*             <select id="lan" name="language" class="rounded float-right col-md-2 select" onchange="getval(this);">
+                <option value="" selected disabled hidden>@currentLanguage</option>
+                @foreach (var item in client.ListLanguages(target: myLanguage))
+                {
+                    <option id="lan" value="@item.Code">@item.Name</option>
+                }
+            </select> *@
+        </div>
+    </nav>
+
+    <div class="">
+        @RenderBody()
+    </div>
+    <div id="footer" class="footer col-md-10">
+        <footer>
+            &copy; 2019 - movieGEN.
+        </footer>
+    </div>
+
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>
+<script type="text/javascript">
+    function getval(sel) {
+        $.ajax({
+            url: '/Home/ChangeLangage',
+            type: "POST",
+            dataType: 'json',
+            data: { "langage": sel.value }
+        });
+        location.reload();
+    }
+
+</script>

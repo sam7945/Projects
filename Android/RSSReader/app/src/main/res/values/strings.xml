@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="Plus">+</string>
+    <string name="Moins">-</string>
+    <string name="UrlText">URL:</string>
+    <string name="imageflux">imageFlux</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

@@ -1,0 +1,10 @@
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\bin\Debug\ExerciceObserver.exe.config
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\bin\Debug\ExerciceObserver.exe
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\bin\Debug\ExerciceObserver.pdb
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.csprojAssemblyReference.cache
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.Form1.resources
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.Properties.Resources.resources
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.csproj.GenerateResource.cache
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.csproj.CoreCompileInputs.cache
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.exe
+D:\école\session6\Architecture des applications\ExerciceObserver\ExerciceObserver\obj\Debug\ExerciceObserver.pdb

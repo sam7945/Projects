@@ -1,0 +1,14 @@
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\bin\Debug\TP2.exe.config
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\bin\Debug\TP2.exe
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\bin\Debug\TP2.pdb
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\obj\Debug\TP2.exe
+D:\école\session6\Architecture des applications\TPs\TP2\TP2\TP2\obj\Debug\TP2.pdb
+C:\Users\raph_\Desktop\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\raph_\Desktop\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\raph_\Desktop\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\raph_\Desktop\TP2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\raph_\Desktop\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\raph_\Desktop\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\raph_\Desktop\TP2\TP2\obj\Debug\TP2.pdb

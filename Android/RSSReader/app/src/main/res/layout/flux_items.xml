@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools" android:orientation="horizontal"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" tools:ignore="MissingDefaultResource">
+
+    <CheckBox
+            android:text="DejaVue"
+            android:clickable="false"
+            android:layout_width="wrap_content"
+            android:id="@+id/checkBox2" android:layout_weight="0" android:layout_height="wrap_content"/>
+    <TextView
+            android:text="TextView"
+            android:layout_height="wrap_content"
+            android:id="@+id/titreView"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="16dp"
+            android:onClick="voirFlux"
+            android:layout_marginBottom="20dp"
+            android:layout_width="310dp"/>
+
+</LinearLayout>

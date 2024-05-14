@@ -1,0 +1,129 @@
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\VisualArrays.dll
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\VisualArrays.xml
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.Cache
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csprojResolveAssemblyReference.cache
+C:\Backup08012014\Cours A2014\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\VisualArrays.dll
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\VisualArrays.xml
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csprojResolveAssemblyReference.cache
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+D:\Hugo St-Louis\Cours A2015\420-CAC-A14 Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.Cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\VisualArrays.dll
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\bin\Debug\VisualArrays.xml
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csprojResolveAssemblyReference.cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.Cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.CoreCompileInputs.cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\VisualArrays.dll
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\VisualArrays.xml
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csprojResolveAssemblyReference.cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.Cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.CoreCompileInputs.cache
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+D:\Hugo St-Louis\Cours A2017\420-CAC Algorithme et programmation\Travaux\TP5- Sudoku\TP5-Sudoku\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\VisualArrays.xml
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csprojResolveAssemblyReference.cache
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.Cache
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.CoreCompileInputs.cache
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+D:\CSH\Cours Automne\420-CAC-HY Algorithme et programmation orientée objet\Prof\TP5\C (Sudoku)\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\VisualArrays.xml
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csprojResolveAssemblyReference.cache
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.Cache
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.CoreCompileInputs.cache
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+D:\école\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\MeilleursResultats.txt
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Debutant.txt
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-DebutantSolution.txt
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Expert.txt
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\Données\Sudoku-Intermediaire.txt
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe.config
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.exe
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\TP5-Sudoku.pdb
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.dll
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\mnemoTIC.Programmation.xml
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\bin\Debug\VisualArrays.xml
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.AssemblyReference.cache
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.frmGrilleSudoku.resources
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5_Sudoku.Properties.Resources.resources
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.GenerateResource.cache
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.CoreCompileInputs.cache
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.csproj.CopyComplete
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.exe
+D:\école\session3\algorithme et programmation orientée objet\420_CAC\Travaux\TP5\TP5-Sudoku-Etudiant\TP5-Sudoku\obj\Debug\TP5-Sudoku.pdb

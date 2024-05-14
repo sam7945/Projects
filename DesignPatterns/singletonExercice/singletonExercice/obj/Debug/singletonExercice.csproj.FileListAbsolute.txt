@@ -1,0 +1,10 @@
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\bin\Debug\singletonExercice.exe.config
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\bin\Debug\singletonExercice.exe
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\bin\Debug\singletonExercice.pdb
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.csprojAssemblyReference.cache
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.Form1.resources
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.Properties.Resources.resources
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.csproj.GenerateResource.cache
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.csproj.CoreCompileInputs.cache
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.exe
+D:\école\session6\Architecture des applications\singletonExercice\singletonExercice\obj\Debug\singletonExercice.pdb

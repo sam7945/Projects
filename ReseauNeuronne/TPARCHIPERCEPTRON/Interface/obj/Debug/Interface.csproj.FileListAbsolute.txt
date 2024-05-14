@@ -1,0 +1,13 @@
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\bin\Debug\Interface.exe.config
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\bin\Debug\Interface.exe
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\bin\Debug\Interface.pdb
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\bin\Debug\TP5.dll
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\bin\Debug\TP5.pdb
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.Form1.resources
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.exe
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.pdb
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\école\session6\Architecture des applications\TPs\TP5\TPARCHIPERCEPTRONSolution2014\TPARCHIPERCEPTRON\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache

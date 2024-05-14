@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>mnemoTIC.Programmation</name>
+    </assembly>
+    <members>
+        <member name="F:mnemoTIC.Programmation.BoiteSaisie.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:mnemoTIC.Programmation.BoiteSaisie.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:mnemoTIC.Programmation.BoiteSaisie.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:mnemoTIC.Programmation.Formulaires">
+            <summary>
+            <para>
+            Description: Cette classe permet de fournir des formulaires de saisie afin
+                         de faciliter l'apprentisage de la programmation orientée-objet.
+            </para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeur(System.String,System.String)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type string.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <returns>Retourne la valeur saisie par l'usager sous forme d'une chaine de caractères</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurChar(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type char (limité à un caractère).</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-10-04</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie par l'usager sous forme d'un caractère.</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurByte(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type byte.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en byte</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurSByte(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type sbyte.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en sbyte</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurShort(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type short.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en short</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurUShort(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type ushort.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en ushort</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurInt(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type int.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en int</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurUInt(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type uint.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en uint</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurLong(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type long.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en long</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurULong(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type ulong.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en ulong</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurFloat(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type float.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en float</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurDouble(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type double.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en double</returns>
+        </member>
+        <member name="M:mnemoTIC.Programmation.Formulaires.DemanderValeurDecimal(System.String,System.String,System.Boolean)">
+            <summary>
+            <para>Description: Demande à l'usager de saisir une valeur de type decimal.</para>
+            <para>Auteur: Martin Lalancette</para>
+            <para>Date: 2013-07-28</para>
+            </summary>
+            <param name="sMessage">Texte à afficher à l'usager (1024 caractères MAX.).</param>
+            <param name="sTitre">Titre apparaissant dans la barre de titre.</param>
+            <param name="bCacherType">Permet d'indiquer au type de s'afficher ou non (true ou false)</param>
+            <returns>Retourne la valeur saisie et convertie en decimal</returns>
+        </member>
+    </members>
+</doc>

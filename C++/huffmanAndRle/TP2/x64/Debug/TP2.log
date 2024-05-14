@@ -1,0 +1,4 @@
+﻿  huffman.cpp
+d:\école\session6\programmation système\tp2\tp2\tp2\bitpacker.h(32): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+d:\école\session6\programmation système\tp2\tp2\tp2\huffman.cpp(124): warning C4244: 'initialisation' : conversion de 'std::streamoff' en 'unsigned int', perte possible de données
+  TP2.vcxproj -> D:\école\session6\Programmation système\TP2\TP2\x64\Debug\TP2.exe

@@ -1,0 +1,10 @@
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\bin\Debug\BanqueState.exe.config
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\bin\Debug\BanqueState.exe
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\bin\Debug\BanqueState.pdb
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.csprojAssemblyReference.cache
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.Form1.resources
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.Properties.Resources.resources
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.csproj.GenerateResource.cache
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.csproj.CoreCompileInputs.cache
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.exe
+D:\école\session6\Architecture des applications\BanqueState\BanqueState\obj\Debug\BanqueState.pdb

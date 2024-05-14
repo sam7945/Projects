@@ -1,0 +1,83 @@
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe.config
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).pdb
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.g.cs
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\App.g.cs
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.cache
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.lref
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.baml
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).g.resources
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat_Tp4_.Properties.Resources.resources
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.GenerateResource.Cache
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.CoreCompileInputs.cache
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).exe
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).pdb
+C:\Users\sam79\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe.config
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).pdb
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\App.g.cs
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.cache
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.lref
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.baml
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).g.resources
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat_Tp4_.Properties.Resources.resources
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.GenerateResource.cache
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).exe
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).pdb
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csprojResolveAssemblyReference.cache
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.g.cs
+C:\Users\Randy\Desktop\Combat_arène\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.baml
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe.config
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).pdb
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.g.cs
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.g.cs
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\App.g.cs
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.lref
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.baml
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.baml
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).g.resources
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat_Tp4_.Properties.Resources.resources
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.GenerateResource.Cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.CoreCompileInputs.cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).exe
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).pdb
+C:\Users\sam79\Desktop\Combat_arène_v1.1.1\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csprojResolveAssemblyReference.cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe.config
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).pdb
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.g.cs
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.g.cs
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\App.g.cs
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.lref
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.baml
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.baml
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).g.resources
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat_Tp4_.Properties.Resources.resources
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.GenerateResource.Cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.CoreCompileInputs.cache
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).exe
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).pdb
+C:\Users\sam79\Desktop\Combat_arène_v1.1.2\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csprojResolveAssemblyReference.cache
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe.config
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).exe
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\bin\Debug\Combat(Tp4).pdb
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.AssemblyReference.cache
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.g.cs
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.g.cs
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\App.g.cs
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.cache
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4)_MarkupCompile.lref
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\ClassementFinal.baml
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Views\MainWindow.baml
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).g.resources
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat_Tp4_.Properties.Resources.resources
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.GenerateResource.cache
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).csproj.CoreCompileInputs.cache
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).exe
+D:\école\session4\Programmation orientée objet 2\420_GEA\Travaux\Tp4\Combat_arène_v1.1.3\Combat(Tp4)\Combat(Tp4)\obj\Debug\Combat(Tp4).pdb
